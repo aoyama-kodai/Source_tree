@@ -1,0 +1,12 @@
+C:\Users\ahoya\source\repos\Maya\Maya\bin\Debug\Maya.exe.config
+C:\Users\ahoya\source\repos\Maya\Maya\bin\Debug\Maya.exe
+C:\Users\ahoya\source\repos\Maya\Maya\bin\Debug\Maya.pdb
+C:\Users\ahoya\source\repos\Maya\Maya\bin\Debug\Maya.xml
+C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.vbprojAssemblyReference.cache
+C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.Form1.resources
+C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.Resources.resources
+C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.vbproj.GenerateResource.cache
+C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.vbproj.CoreCompileInputs.cache
+C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.exe
+C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.xml
+C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.pdb
