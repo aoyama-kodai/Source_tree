@@ -10,3 +10,15 @@ C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.vbproj.CoreCompileInputs.ca
 C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.exe
 C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.xml
 C:\Users\ahoya\source\repos\Maya\Maya\obj\Debug\Maya.pdb
+C:\Users\conda\Documents\Source_tree\Maya\Maya\bin\Debug\Maya.exe.config
+C:\Users\conda\Documents\Source_tree\Maya\Maya\bin\Debug\Maya.exe
+C:\Users\conda\Documents\Source_tree\Maya\Maya\bin\Debug\Maya.pdb
+C:\Users\conda\Documents\Source_tree\Maya\Maya\bin\Debug\Maya.xml
+C:\Users\conda\Documents\Source_tree\Maya\Maya\obj\Debug\Maya.vbprojAssemblyReference.cache
+C:\Users\conda\Documents\Source_tree\Maya\Maya\obj\Debug\Maya.Form1.resources
+C:\Users\conda\Documents\Source_tree\Maya\Maya\obj\Debug\Maya.Resources.resources
+C:\Users\conda\Documents\Source_tree\Maya\Maya\obj\Debug\Maya.vbproj.GenerateResource.cache
+C:\Users\conda\Documents\Source_tree\Maya\Maya\obj\Debug\Maya.vbproj.CoreCompileInputs.cache
+C:\Users\conda\Documents\Source_tree\Maya\Maya\obj\Debug\Maya.exe
+C:\Users\conda\Documents\Source_tree\Maya\Maya\obj\Debug\Maya.xml
+C:\Users\conda\Documents\Source_tree\Maya\Maya\obj\Debug\Maya.pdb

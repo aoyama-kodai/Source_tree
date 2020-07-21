@@ -22,6 +22,16 @@ Maya
   現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
 </summary>
 </member>
+<member name="P:Maya.My.Resources.Resources._3303fa5c_e84d_4c32_9c07_5a1beacbc8ba">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Maya.My.Resources.Resources.fc0b3dbe6b4f0924">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
 <member name="P:Maya.My.Resources.Resources.publicdomainq_0022577cuu">
 <summary>
   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。

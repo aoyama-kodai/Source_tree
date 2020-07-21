@@ -122,5 +122,11 @@
   <ItemGroup>
     <None Include="Resources\publicdomainq-0022577cuu.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fc0b3dbe6b4f0924.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3303fa5c-e84d-4c32-9c07-5a1beacbc8ba.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

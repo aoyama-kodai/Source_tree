@@ -63,6 +63,26 @@ Namespace My.Resources
         '''<summary>
         '''  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
         '''</summary>
+        Friend ReadOnly Property _3303fa5c_e84d_4c32_9c07_5a1beacbc8ba() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("3303fa5c-e84d-4c32-9c07-5a1beacbc8ba", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+        '''</summary>
+        Friend ReadOnly Property fc0b3dbe6b4f0924() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("fc0b3dbe6b4f0924", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+        '''</summary>
         Friend ReadOnly Property publicdomainq_0022577cuu() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("publicdomainq-0022577cuu", resourceCulture)
