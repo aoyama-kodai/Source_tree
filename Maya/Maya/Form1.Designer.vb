@@ -36,7 +36,7 @@ Partial Class Form1
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("游ゴシック Light", 99.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(128, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
-        Me.Label1.Location = New System.Drawing.Point(350, 300)
+        Me.Label1.Location = New System.Drawing.Point(195, 171)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(404, 172)
         Me.Label1.TabIndex = 0
@@ -48,7 +48,7 @@ Partial Class Form1
         Me.Label2.BackColor = System.Drawing.Color.Transparent
         Me.Label2.Font = New System.Drawing.Font("游ゴシック Light", 48.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(128, Byte))
         Me.Label2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
-        Me.Label2.Location = New System.Drawing.Point(210, 472)
+        Me.Label2.Location = New System.Drawing.Point(36, 343)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(696, 82)
         Me.Label2.TabIndex = 1
@@ -57,7 +57,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("游ゴシック Light", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(128, Byte))
-        Me.Button1.Location = New System.Drawing.Point(456, 666)
+        Me.Button1.Location = New System.Drawing.Point(288, 652)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(192, 64)
         Me.Button1.TabIndex = 2
