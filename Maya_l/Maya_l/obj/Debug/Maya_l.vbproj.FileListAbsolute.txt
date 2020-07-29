@@ -1,0 +1,13 @@
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\bin\Debug\Maya_l.exe.config
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\bin\Debug\Maya_l.exe
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\bin\Debug\Maya_l.pdb
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\bin\Debug\Maya_l.xml
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\obj\Debug\Maya_l.vbprojAssemblyReference.cache
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\obj\Debug\Maya_l.Form1.resources
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\obj\Debug\Maya_l.Resources.resources
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\obj\Debug\Maya_l.vbproj.GenerateResource.cache
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\obj\Debug\Maya_l.vbproj.CoreCompileInputs.cache
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\obj\Debug\Maya_l.exe
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\obj\Debug\Maya_l.xml
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\obj\Debug\Maya_l.pdb
+C:\Users\ahoya\source_tree\Maya_l\Maya_l\obj\Debug\Maya_l.Form2.resources

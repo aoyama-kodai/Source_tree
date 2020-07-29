@@ -1,0 +1,13 @@
+C:\Users\ahoya\source_tree\Ichika\Ichika\bin\Debug\Ichika.exe.config
+C:\Users\ahoya\source_tree\Ichika\Ichika\bin\Debug\Ichika.exe
+C:\Users\ahoya\source_tree\Ichika\Ichika\bin\Debug\Ichika.pdb
+C:\Users\ahoya\source_tree\Ichika\Ichika\bin\Debug\Ichika.xml
+C:\Users\ahoya\source_tree\Ichika\Ichika\obj\Debug\Ichika.vbprojAssemblyReference.cache
+C:\Users\ahoya\source_tree\Ichika\Ichika\obj\Debug\Ichika.Form1.resources
+C:\Users\ahoya\source_tree\Ichika\Ichika\obj\Debug\Ichika.Resources.resources
+C:\Users\ahoya\source_tree\Ichika\Ichika\obj\Debug\Ichika.vbproj.GenerateResource.cache
+C:\Users\ahoya\source_tree\Ichika\Ichika\obj\Debug\Ichika.vbproj.CoreCompileInputs.cache
+C:\Users\ahoya\source_tree\Ichika\Ichika\obj\Debug\Ichika.exe
+C:\Users\ahoya\source_tree\Ichika\Ichika\obj\Debug\Ichika.xml
+C:\Users\ahoya\source_tree\Ichika\Ichika\obj\Debug\Ichika.pdb
+C:\Users\ahoya\source_tree\Ichika\Ichika\obj\Debug\Ichika.Form2.resources
